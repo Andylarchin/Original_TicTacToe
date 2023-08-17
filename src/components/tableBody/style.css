@@ -1,0 +1,22 @@
+.tableContainer {
+  height: 500px;
+  width: 500px;
+  color: black;
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.cell {
+  display: flex;
+  flex-basis: 33.33333%;
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+  background-color: red;
+}
+
+.cell-0 {
+    
+}
